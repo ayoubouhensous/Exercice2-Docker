@@ -1,5 +1,5 @@
 
-# Compte-rendu du TP DevOps/MLOps
+# Exercice 2 - Manipulation avancée des conteneurs
 
 ---
 
